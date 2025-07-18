@@ -5,7 +5,7 @@ Made for [roadmap.sh](https://roadmap.sh/projects/github-user-activity)
 
 ## Usage
 
-python main.py <github-username>
+python github-activity.py 'github-username'
 
 ## Example
 
